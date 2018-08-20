@@ -1,6 +1,6 @@
 # [Converted Voice Detection](https://github.com/ciads-ut/converted-voice-detection)
 
-As voice conversion tools improve, generated and authentic voice clips become increasingly indiscernible to the human ear which makes the dissemination of spurious information becomes much more conducive. This project demonstrates an effective approach to converted voice detection. 
+As voice conversion tools improve, generated and authentic voice clips become increasingly indiscernible to the human ear which makes the dissemination of spurious information much more conducive. This project demonstrates an effective approach to converted voice detection. 
 
 # So You Think You Can Get Published? 
 Countries such as the United States, Great Britain, Germany, and China dominate the medical research world with the plethora of influential Medical Journals present in their respective countries. This project reveals the secret ingridient for a country to be more perverse in the Medical Research world.
