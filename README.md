@@ -2,7 +2,7 @@
 
 As voice conversion tools improve, generated and authentic voice clips become increasingly indiscernible to the human ear which makes the dissemination of spurious information much more conducive. This project demonstrates an effective approach to converted voice detection. 
 
-# So You Think You Can Get Published? 
+# [So You Think You Can Get Published?](https://github.com/v4lakers/pubmed) 
 Countries such as the United States, Great Britain, Germany, and China dominate the medical research world with the plethora of influential Medical Journals present in their respective countries. This project reveals the secret ingridient for a country to be more perverse in the Medical Research world.
 
 # To Pass or Not To Pass: The Tale of Kobe Bryant
