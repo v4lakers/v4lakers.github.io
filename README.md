@@ -4,6 +4,8 @@
 
 As voice conversion tools improve, generated and authentic voice clips become increasingly indiscernible to the human ear which makes the dissemination of spurious information much more conducive. This project demonstrates an effective approach to converted voice detection. 
 
+### [Predicting the presence of a Matrix Language in code-switching](http://www.aclweb.org/anthology/W18-3208)
+
 
 # Individual Research Projects 
 ### [So You Think You Can Get Published?](https://github.com/v4lakers/pubmed) 
