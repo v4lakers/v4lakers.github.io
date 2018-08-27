@@ -6,6 +6,8 @@ As voice conversion tools improve, generated and authentic voice clips become in
 
 #### [Predicting the presence of a Matrix Language in code-switching](http://www.aclweb.org/anthology/W18-3208)
 
+Researchers of bilingual code-switching often assume that one of the participating languages serves as the ‘base’ or ‘matrix’ into which elements of the other language are embedded. This project explores this phenomena.
+
 
 # Individual Research Projects 
 #### [So You Think You Can Get Published?](https://github.com/v4lakers/pubmed) 
