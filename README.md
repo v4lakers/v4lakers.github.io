@@ -14,17 +14,19 @@ Researchers of bilingual code-switching often assume that one of the participati
 
 
 # Individual Research Projects 
+### To Pass or Not To Pass: The Tale of Kobe Bryant
+
+![pngpix-com-kobe-bryant-png-transparent-image-500x405](https://user-images.githubusercontent.com/25602219/44941161-c1d00780-ad5d-11e8-800d-1c36e3947ed2.png)
+
+Kobe Bryant is a retired NBA legend who has had one of the most decorated careers of all time. However, sports pundits have criticized Bryant of taking too many shots and not passing the ball enough. The goal of this study if there was a relationship, if any, between Kobe Bryant's ball dominant play style and the team's margin of victory. 
+
 ### [So You Think You Can Get Published?](https://github.com/v4lakers/pubmed) 
 
 ![medical-research-400](https://user-images.githubusercontent.com/25602219/44941164-d3b1aa80-ad5d-11e8-877a-2ae1d3cc60fd.jpg)
 
 Countries such as the United States, Great Britain, Germany, and China dominate the medical research world with the plethora of influential Medical Journals present in their respective countries. This project reveals the secret ingridient for a country to be more perverse in the Medical Research world.
 
-### To Pass or Not To Pass: The Tale of Kobe Bryant
 
-![pngpix-com-kobe-bryant-png-transparent-image-500x405](https://user-images.githubusercontent.com/25602219/44941161-c1d00780-ad5d-11e8-800d-1c36e3947ed2.png)
-
-Kobe Bryant is a retired NBA legend who has had one of the most decorated careers of all time. However, sports pundits have criticized Bryant of taking too many shots and not passing the ball enough. The goal of this study if there was a relationship, if any, between Kobe Bryant's ball dominant play style and the team's margin of victory. 
 
 # Volunteering Projects 
 ### [Zero to Fit](https://www.02fit.org/) 
