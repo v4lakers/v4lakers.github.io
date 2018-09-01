@@ -16,7 +16,7 @@ Researchers of bilingual code-switching often assume that one of the participati
 # Individual Research Projects 
 ### [So You Think You Can Get Published?](https://github.com/v4lakers/pubmed) 
 
-
+![medical-research-630x388](https://user-images.githubusercontent.com/25602219/44940944-eb3b6400-ad5a-11e8-9f3b-29b87bfe7a46.jpg)
 
 Countries such as the United States, Great Britain, Germany, and China dominate the medical research world with the plethora of influential Medical Journals present in their respective countries. This project reveals the secret ingridient for a country to be more perverse in the Medical Research world.
 
@@ -30,3 +30,4 @@ Kobe Bryant is a retired NBA legend who has had one of the most decorated career
  
 ###### Image From: www.rosehearing.com/?page_id=106
 ###### Image From: www.teachingenglish.org.uk/article/translation-activities-language-classroom
+###### Image From: https://xusom.com/uncategorized/strategies-for-a-medical-student-as-a-balanced-researcher/
