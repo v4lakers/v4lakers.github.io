@@ -8,7 +8,7 @@ As voice conversion tools improve, generated and authentic voice clips become in
 
 ### [Predicting the presence of a Matrix Language in code-switching](http://www.aclweb.org/anthology/W18-3208)
 
-![22-12-14_translation](https://github.com/v4lakers/v4lakers.github.io/blob/master/pics/22-12-14_Translation.jpg)
+![22-12-14_translation](https://user-images.githubusercontent.com/25602219/44941208-ae716c00-ad5e-11e8-8ef0-e109fc3a6b86.jpg)
 
 Researchers of bilingual code-switching often assume that one of the participating languages serves as the ‘base’ or ‘matrix’ into which elements of the other language are embedded. This project explores this phenomena.
 
