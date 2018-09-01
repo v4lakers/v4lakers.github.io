@@ -33,6 +33,8 @@ Countries such as the United States, Great Britain, Germany, and China dominate 
  
 #### [African Library Project](https://www.africanlibraryproject.org/book-drives/book-drives-in-action?alpdetail=398#.W4Scg5NKhaR) 
 
+Collected over 2,000 books that the local library discarded. Organized half of the books with a team of volunteers and shipped inventory to Makhosini High School, Swaziland Africa. Coordinated a community book sale with the other half of the books collected to fund shipping costs. 
+
 ###### Images From: 
 ###### www.rosehearing.com/?page_id=106
 ###### www.teachingenglish.org.uk/article/translation-activities-language-classroom
