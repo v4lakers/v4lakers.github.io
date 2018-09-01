@@ -18,7 +18,7 @@ Researchers of bilingual code-switching often assume that one of the participati
 
 ![pngpix-com-kobe-bryant-png-transparent-image-500x405](https://user-images.githubusercontent.com/25602219/44941161-c1d00780-ad5d-11e8-800d-1c36e3947ed2.png)
 
-Kobe Bryant is a retired NBA legend who has had one of the most decorated careers of all time. However, sports pundits have criticized Bryant of taking too many shots and not passing the ball enough. The goal of this study if there was a relationship, if any, between Kobe Bryant's ball dominant play style and the team's margin of victory. 
+Kobe Bryant is a retired NBA legend who has had one of the most decorated careers of all time. However, sports pundits have criticized Bryant of taking too many shots and not passing the ball enough. The goal of this study is to discern a relationship, if any, between Kobe Bryant's ball dominant play style and the team's margin of victory. 
 
 ### [So You Think You Can Get Published?](https://github.com/v4lakers/pubmed) 
 
