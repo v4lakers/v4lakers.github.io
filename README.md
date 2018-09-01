@@ -1,4 +1,4 @@
-# Collaborative Research Projects 
+# Research Projects 
 
 ### [Converted Voice Detection](https://github.com/ciads-ut/converted-voice-detection)
 
@@ -13,7 +13,7 @@ As voice conversion tools improve, generated and authentic voice clips become in
 Researchers of bilingual code-switching often assume that one of the participating languages serves as the ‘base’ or ‘matrix’ into which elements of the other language are embedded. This project explores this phenomena.
 
 
-# Individual Research Projects 
+# Special Interest Projects 
 ### To Pass or Not To Pass: The Tale of Kobe Bryant
 
 ![pngpix-com-kobe-bryant-png-transparent-image-500x405](https://user-images.githubusercontent.com/25602219/44941161-c1d00780-ad5d-11e8-800d-1c36e3947ed2.png)
