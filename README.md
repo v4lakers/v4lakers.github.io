@@ -42,3 +42,4 @@ Collected over 2,000 books that the local library discarded. Organized half of t
 ###### www.teachingenglish.org.uk/article/translation-activities-language-classroom
 ###### https://xusom.com/uncategorized/strategies-for-a-medical-student-as-a-balanced-researcher/
 ###### www.pngpix.com/download/kobe-bryant-png-transparent-image
+###### https://www.africanlibraryproject.org/learn-more-overview/photo-resources
