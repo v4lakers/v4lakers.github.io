@@ -33,7 +33,8 @@ Countries such as the United States, Great Britain, Germany, and China dominate 
  
 #### [African Library Project](https://www.africanlibraryproject.org/book-drives/book-drives-in-action?alpdetail=398#.W4Scg5NKhaR) 
 
-###### Images From: www.rosehearing.com/?page_id=106
+###### Images From: 
+###### www.rosehearing.com/?page_id=106
 ###### www.teachingenglish.org.uk/article/translation-activities-language-classroom
 ###### https://xusom.com/uncategorized/strategies-for-a-medical-student-as-a-balanced-researcher/
 ###### www.pngpix.com/download/kobe-bryant-png-transparent-image
