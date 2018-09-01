@@ -22,7 +22,7 @@ Countries such as the United States, Great Britain, Germany, and China dominate 
 
 ### To Pass or Not To Pass: The Tale of Kobe Bryant
 
-![kobe]://github.com/v4lakers/v4lakers.github.io/blob/master/pics/PNGPIX-COM-Kobe-Bryant-PNG-Transparent-Image-500x405.png
+![kobe](://github.com/v4lakers/v4lakers.github.io/blob/master/pics/PNGPIX-COM-Kobe-Bryant-PNG-Transparent-Image-500x405.png)
 Kobe Bryant is a retired NBA legend who has had one of the most decorated careers of all time. However, sports pundits have criticized Bryant of taking too many shots and not passing the ball enough. The goal of this study if there was a relationship, if any, between Kobe Bryant's ball dominant play style and the team's margin of victory. 
 
 # Volunteering Projects 
