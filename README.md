@@ -3,6 +3,7 @@
 #### [Converted Voice Detection](https://github.com/ciads-ut/converted-voice-detection)
 
 ![speech](https://user-images.githubusercontent.com/25602219/44940576-f63fc580-ad55-11e8-9e82-dc2dc5cdeed3.png)
+Image eirwy uFrom: http://rosehearing.com/?page_id=106
 
 As voice conversion tools improve, generated and authentic voice clips become increasingly indiscernible to the human ear which makes the dissemination of spurious information much more conducive. This project demonstrates an effective approach to converted voice detection. 
 
