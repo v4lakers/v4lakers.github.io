@@ -32,7 +32,8 @@ Countries such as the United States, Great Britain, Germany, and China dominate 
  
  #### [African Library Project](https://www.africanlibraryproject.org/book-drives/book-drives-in-action?alpdetail=398#.W4Scg5NKhaR) 
 
-![africa-library-project-logo](https://user-images.githubusercontent.com/25602219/44951541-a3850d00-ae2c-11e8-8455-968cf2e9caf8.jpg)
+![knm1unc8yh1](https://user-images.githubusercontent.com/25602219/44951557-2017eb80-ae2d-11e8-8438-dcaa60fb560a.png)
+
 
 Collected over 2,000 books that the local library discarded. Organized half of the books with a team of volunteers and shipped inventory to Makhosini High School, Swaziland Africa. Coordinated a community book sale with the other half of the books collected to fund shipping costs. 
 
