@@ -30,7 +30,7 @@ Countries such as the United States, Great Britain, Germany, and China dominate 
 
 # Volunteering Projects 
  
- #### [African Library Project](https://www.africanlibraryproject.org/book-drives/book-drives-in-action?alpdetail=398#.W4Scg5NKhaR) 
+### [African Library Project](https://www.africanlibraryproject.org/book-drives/book-drives-in-action?alpdetail=398#.W4Scg5NKhaR) 
 
 ![knm1unc8yh1](https://user-images.githubusercontent.com/25602219/44951557-2017eb80-ae2d-11e8-8438-dcaa60fb560a.png)
 
