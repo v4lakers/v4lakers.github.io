@@ -38,7 +38,7 @@ Countries such as the United States, Great Britain, Germany, and China dominate 
 Collected over 2,000 books that the local library discarded. Organized half of the books with a team of volunteers and shipped inventory to Makhosini High School, Swaziland Africa. Coordinated a community book sale with the other half of the books collected to fund shipping costs. 
 
 ### [Zero to Fit](https://www.02fit.org/)
-![image1](https://user-images.githubusercontent.com/25602219/44951520-248fd480-ae2c-11e8-959e-539752422d4f.jpg)
+![image1](https://user-images.githubusercontent.com/25602219/44951605-dc71b180-ae2d-11e8-9125-f37ebc503185.png)
 
 
 ###### Images From: 
