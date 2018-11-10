@@ -1,6 +1,6 @@
 # Research Projects 
 
-### [Converted Voice Detection](https://github.com/ciads-ut/converted-voice-detection)
+### [Converted Voice Detection](https://github.com/v4lakers/Voice-Conversion-Detection)
 
 ![speech](https://user-images.githubusercontent.com/25602219/44940576-f63fc580-ad55-11e8-9e82-dc2dc5cdeed3.png)
 
