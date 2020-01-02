@@ -14,7 +14,7 @@ Researchers of bilingual code-switching often assume that one of the participati
 
 ### [First Impression for Dummies](https://github.com/v4lakers/CS329E_team11)
 
-![speech](https://user-images.githubusercontent.com/25602219/44940576-f63fc580-ad55-11e8-9e82-dc2dc5cdeed3.png)
+![speech](https://github.com/v4lakers/v4lakers.github.io/blob/master/pics/Screen%20Shot%202020-01-01%20at%205.26.52%20PM.png)
 
 Swipe left… Swipe left… Swipe right… MATCH! With applications such as Tinder, Linkedin, and Facebook, users can form impressions on several people in a short amount of time which has greatly affected the way we date, network, and make friends in the 21st century. According to Anna Pitts of Business Insider, first impressions are made in just 7 seconds. This is precisely the problem we aim to address: How can we determinte the characteristics that help someone nail a first impression? Short answer: Machine Learning
 
