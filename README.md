@@ -12,9 +12,9 @@ As voice conversion tools improve, generated and authentic voice clips become in
 
 Researchers of bilingual code-switching often assume that one of the participating languages serves as the ‘base’ or ‘matrix’ into which elements of the other language are embedded. This project explores this phenomena.
 
-### [First Impression for Dummies](https://github.com/v4lakers/CS329E_team11 | width=100)
+### [First Impression for Dummies](https://github.com/v4lakers/CS329E_team11)
 
-![impression](https://user-images.githubusercontent.com/25602219/71648714-9eec9500-2cbc-11ea-962e-84446443c7f9.png)
+![impression](https://user-images.githubusercontent.com/25602219/71648714-9eec9500-2cbc-11ea-962e-84446443c7f9.png | width=100)
 
 Swipe left… Swipe left… Swipe right… MATCH! With applications such as Tinder, Linkedin, and Facebook, users can form impressions on several people in a short amount of time which has greatly affected the way we date, network, and make friends in the 21st century. According to Anna Pitts of Business Insider, first impressions are made in just 7 seconds. This is precisely the problem we aim to address: How can we determinte the characteristics that help someone nail a first impression? Short answer: Machine Learning
 
