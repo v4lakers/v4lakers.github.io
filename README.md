@@ -12,7 +12,7 @@ As voice conversion tools improve, generated and authentic voice clips become in
 
 Researchers of bilingual code-switching often assume that one of the participating languages serves as the ‘base’ or ‘matrix’ into which elements of the other language are embedded. This project explores this phenomena.
 
-### [First Impression for Dummies](https://github.com/v4lakers/CS329E_team11)
+### [First Impression for Dummies](https://github.com/v4lakers/CS329E_team11 | width=100)
 
 ![impression](https://user-images.githubusercontent.com/25602219/71648714-9eec9500-2cbc-11ea-962e-84446443c7f9.png)
 
