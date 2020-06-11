@@ -4,7 +4,11 @@
 
 ![speech](https://user-images.githubusercontent.com/25602219/44940576-f63fc580-ad55-11e8-9e82-dc2dc5cdeed3.png)
 
-As voice conversion tools improve, generated and authentic voice clips become increasingly indiscernible to the human ear which makes the dissemination of spurious information much more conducive. This project demonstrates an effective approach to converted voice detection. 
+As voice conversion tools improve, generated and authentic voice clips become increasingly indiscernible to the human ear which makes the dissemination of spurious information much more conducive. This project demonstrates an effective approach to converted voice detection.
+
+### [Kobe Bryant through a Machine Learning Lens](https://github.com/v4lakers/mlkobe)
+
+![pngpix-com-kobe-bryant-png-transparent-image-500x405](https://user-images.githubusercontent.com/25602219/44941161-c1d00780-ad5d-11e8-800d-1c36e3947ed2.png)
 
 ### [Predicting the presence of a Matrix Language in code-switching](http://www.aclweb.org/anthology/W18-3208)
 
