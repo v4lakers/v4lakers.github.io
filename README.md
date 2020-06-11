@@ -1,4 +1,4 @@
-# Research Projects 
+# Machine Learning Projects 
 
 ### [Converted Voice Detection](https://github.com/v4lakers/Voice-Conversion-Detection)
 
@@ -27,6 +27,8 @@ Researchers of bilingual code-switching often assume that one of the participati
 ![impression](https://user-images.githubusercontent.com/25602219/71648714-9eec9500-2cbc-11ea-962e-84446443c7f9.png)
 
 Swipe left… Swipe left… Swipe right… MATCH! With applications such as Tinder, Linkedin, and Facebook, users can form impressions on several people in a short amount of time which has greatly affected the way we date, network, and make friends in the 21st century. According to Anna Pitts of Business Insider, first impressions are made in just 7 seconds. This is precisely the problem we aim to address: How can we determinte the characteristics that help someone nail a first impression? Short answer: Machine Learning
+
+# Special Interest Projects
 
 ### [So You Think You Can Get Published?](https://github.com/v4lakers/pubmed) 
 
