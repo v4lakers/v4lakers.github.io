@@ -1,4 +1,4 @@
-# Machine Learning Projects 
+# Machine Learning Projects
 
 ### [Converted Voice Detection](https://github.com/v4lakers/Voice-Conversion-Detection)
 
@@ -14,7 +14,7 @@ Kobe Bryant is without a doubt one of the greatest basketball players we have ev
 
 #### [To Pass or Not To Pass: The Tale of Kobe Bryant](https://github.com/v4lakers/kobe)
 
-Kobe Bryant is a retired NBA legend who has had one of the most decorated careers of all time. However, sports pundits have criticized Bryant of taking too many shots and not passing the ball enough. The goal of this study is to discern a relationship, if any, between Kobe Bryant's ball dominant play style and the team's margin of victory. 
+Kobe Bryant is a retired NBA legend who has had one of the most decorated careers of all time. However, sports pundits have criticized Bryant of taking too many shots and not passing the ball enough. The goal of this study is to discern a relationship, if any, between Kobe Bryant's ball dominant play style and the team's margin of victory.
 
 ### [Predicting the presence of a Matrix Language in code-switching](http://www.aclweb.org/anthology/W18-3208)
 
@@ -24,13 +24,13 @@ Researchers of bilingual code-switching often assume that one of the participati
 
 ### [First Impression for Dummies](https://github.com/v4lakers/CS329E_team11)
 
-![impression](https://user-images.githubusercontent.com/25602219/71648714-9eec9500-2cbc-11ea-962e-84446443c7f9.png | width=100)
+![impression](https://user-images.githubusercontent.com/25602219/71648714-9eec9500-2cbc-11ea-962e-84446443c7f9.png)
 
 Swipe left… Swipe left… Swipe right… MATCH! With applications such as Tinder, Linkedin, and Facebook, users can form impressions on several people in a short amount of time which has greatly affected the way we date, network, and make friends in the 21st century. According to Anna Pitts of Business Insider, first impressions are made in just 7 seconds. This is precisely the problem we aim to address: How can we determinte the characteristics that help someone nail a first impression? Short answer: Machine Learning
 
 # Special Interest Projects
 
-### [So You Think You Can Get Published?](https://github.com/v4lakers/pubmed) 
+### [So You Think You Can Get Published?](https://github.com/v4lakers/pubmed)
 
 ![medical-research-400](https://user-images.githubusercontent.com/25602219/44941164-d3b1aa80-ad5d-11e8-877a-2ae1d3cc60fd.jpg)
 
