@@ -1,37 +1,33 @@
 var modalInfo = {
   1: {
-    title: "Kanye West Music Generation",
-    info: "A Deep Learning Project that uses Recurrent Neural Networks to produce artificial music based on Kanye West melodies.",
+    title: "Project 1",
+    info: "...",
     link: "https://v4lakers.github.io/kanyeWestMusicGeneration/"
   },
   2: {
     title: "Project 2",
     info: "...",
-    link: "#",
+    link: "#"
   },
   3: {
     title: "Project 3",
     info: "...",
-    link: "#",
-
+    link: "#"
   },
   4: {
     title: "Project 4",
     info: "....",
-    link: "#",
-
+    link: "#"
   },
   5: {
     title: "Project 5",
     info: "...",
-    link: "#",
-
+    link: "#"
   },
   6: {
     title: "Project 6",
     info: "...",
-    link: "#",
-
+    link: "#"
   }
 };
 
@@ -64,7 +60,9 @@ function fillOut(id, img){
   document.getElementById("title").innerHTML = modalInfo[id].title;
   document.getElementById("info").innerHTML = modalInfo[id].info;
   document.getElementById("img").src = img;
-
+  document.getElementById("live").onclick = function(){
+    window.open(modalInfo[id].link,'_blank');
+  }
 
 }
 
