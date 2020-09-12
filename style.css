@@ -85,6 +85,7 @@ img {
 
 .text h3{
   color: black;
+  font-size: 24px;
 }
 
 .item:hover .text{

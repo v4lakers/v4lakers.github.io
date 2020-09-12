@@ -1,31 +1,31 @@
 var modalInfo = {
   1: {
-    title: "Project 1",
+    title: "Kanye West Music Generation",
     info: "A Deep Learning Project that uses Recurrent Neural Networks to produce artificial music based on Kanye West melodies.",
     link: "https://v4lakers.github.io/kanyeWestMusicGeneration/"
   },
   2: {
-    title: "Project 2",
+    title: "Kobe Bryant Through a Machine Learning Lens",
     info: "Software that allows users to build machine learning models and visualize Kobe Bryant's shooting history.",
     link: "https://github.com/v4lakers/mlkobe"
   },
   3: {
-    title: "Project 3",
+    title: "First Impression for Dummies",
     info: "A project that uses various Machine Learning Models to determine which features of a dating profile helps nail that first impression.",
     link: "https://github.com/v4lakers/CS329E_team11"
   },
   4: {
-    title: "Project 4",
+    title: "Predicting the presence of a Matrix Language in code-switching",
     info: "Paper that examines the idea of a single language (the matrix language) serving as the underlying base in language switching.",
     link: "https://www.aclweb.org/anthology/W18-3208.pdf"
   },
   5: {
-    title: "Project 5",
+    title: "Converted Voice Detection",
     info: "Project that uses Machine Learning and Signal Processing Tools to distinguish between artificial and authentic voice clips.",
     link: "https://github.com/v4lakers/Voice-Conversion-Detection"
   },
   6: {
-    title: "Project 6",
+    title: "Hiking Dashboard",
     info: "Dashboard that gives key insight and analytics of my hiking adventures. ",
     link: "https://v4lakers.github.io/hike/"
   }
